@@ -6,3 +6,6 @@ build
 es
 lib
 types
+stats.html
+size-plugin.json
+stats-react.json
