@@ -1,9 +1,14 @@
 {
   "name": "use-react-custom-hooks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Custom hooks for handling server and client states",
   "author": "Amir hossein khademi",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sourena2575/use-react-custom-hook"
+  },
+  "homepage": "https://github.com/sourena2575/use-react-custom-hook",
   "main": "lib/index.js",
   "unpkg": "dist/use-react-custpm-hooks.development.js",
   "types": "types/index.d.ts",
