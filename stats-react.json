@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "tree": {
+    "name": "use-react-custom-hooks.production.min.js",
+    "children": [
+      {
+        "name": "src",
+        "children": [
+          {
+            "name": "hooks",
+            "children": [
+              {
+                "name": "use-cahce",
+                "children": [
+                  {
+                    "name": "index.ts",
+                    "uid": "9368-0"
+                  }
+                ]
+              },
+              {
+                "name": "use-fetch",
+                "children": [
+                  {
+                    "name": "index.ts",
+                    "uid": "9368-2"
+                  }
+                ]
+              },
+              {
+                "name": "use-form",
+                "children": [
+                  {
+                    "name": "index.ts",
+                    "uid": "9368-3"
+                  }
+                ]
+              },
+              {
+                "name": "use-get",
+                "children": [
+                  {
+                    "name": "index.ts",
+                    "uid": "9368-4"
+                  }
+                ]
+              },
+              {
+                "name": "use-highlight",
+                "children": [
+                  {
+                    "name": "index.ts",
+                    "uid": "9368-5"
+                  }
+                ]
+              },
+              {
+                "name": "use-mutate",
+                "children": [
+                  {
+                    "name": "index.ts",
+                    "uid": "9368-6"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "store",
+            "children": [
+              {
+                "name": "index.ts",
+                "uid": "9368-7"
+              }
+            ]
+          },
+          {
+            "name": "index.ts",
+            "uid": "9368-8"
+          }
+        ]
+      },
+      {
+        "name": "node_modules",
+        "children": [
+          {
+            "name": "@babel",
+            "children": [
+              {
+                "name": "runtime",
+                "children": [
+                  {
+                    "name": "helpers",
+                    "children": [
+                      {
+                        "name": "esm",
+                        "children": [
+                          {
+                            "name": "extends.js",
+                            "uid": "9368-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "renderedLength": 5228,
+    "isRoot": true
+  },
+  "nodes": {
+    "9368-0": {
+      "renderedLength": 419,
+      "id": "src\\hooks\\use-cahce\\index.ts"
+    },
+    "9368-1": {
+      "renderedLength": 382,
+      "id": "node_modules\\@babel\\runtime\\helpers\\esm\\extends.js"
+    },
+    "9368-2": {
+      "renderedLength": 2723,
+      "id": "src\\hooks\\use-fetch\\index.ts"
+    },
+    "9368-3": {
+      "renderedLength": 1844,
+      "id": "src\\hooks\\use-form\\index.ts"
+    },
+    "9368-4": {
+      "renderedLength": 2677,
+      "id": "src\\hooks\\use-get\\index.ts"
+    },
+    "9368-5": {
+      "renderedLength": 454,
+      "id": "src\\hooks\\use-highlight\\index.ts"
+    },
+    "9368-6": {
+      "renderedLength": 2185,
+      "id": "src\\hooks\\use-mutate\\index.ts"
+    },
+    "9368-7": {
+      "renderedLength": 29,
+      "id": "src\\store\\index.ts"
+    },
+    "9368-8": {
+      "renderedLength": 0,
+      "isEntry": true,
+      "id": "src\\index.ts"
+    },
+    "9368-9": {
+      "renderedLength": 0,
+      "id": "src\\hooks\\index.ts"
+    },
+    "9368-10": {
+      "renderedLength": 0,
+      "isExternal": true,
+      "id": "valtio"
+    },
+    "9368-11": {
+      "renderedLength": 0,
+      "isExternal": true,
+      "id": "react"
+    },
+    "9368-12": {
+      "renderedLength": 0,
+      "isExternal": true,
+      "id": "store"
+    }
+  },
+  "links": [
+    {
+      "source": "9368-8",
+      "target": "9368-9"
+    },
+    {
+      "source": "9368-8",
+      "target": "9368-7"
+    },
+    {
+      "source": "9368-9",
+      "target": "9368-0"
+    },
+    {
+      "source": "9368-9",
+      "target": "9368-2"
+    },
+    {
+      "source": "9368-9",
+      "target": "9368-3"
+    },
+    {
+      "source": "9368-9",
+      "target": "9368-4"
+    },
+    {
+      "source": "9368-9",
+      "target": "9368-5"
+    },
+    {
+      "source": "9368-9",
+      "target": "9368-6"
+    },
+    {
+      "source": "9368-7",
+      "target": "9368-10"
+    },
+    {
+      "source": "9368-0",
+      "target": "9368-11"
+    },
+    {
+      "source": "9368-0",
+      "target": "9368-12"
+    },
+    {
+      "source": "9368-2",
+      "target": "9368-1"
+    },
+    {
+      "source": "9368-2",
+      "target": "9368-11"
+    },
+    {
+      "source": "9368-2",
+      "target": "9368-10"
+    },
+    {
+      "source": "9368-2",
+      "target": "9368-12"
+    },
+    {
+      "source": "9368-3",
+      "target": "9368-1"
+    },
+    {
+      "source": "9368-3",
+      "target": "9368-11"
+    },
+    {
+      "source": "9368-4",
+      "target": "9368-1"
+    },
+    {
+      "source": "9368-4",
+      "target": "9368-11"
+    },
+    {
+      "source": "9368-5",
+      "target": "9368-11"
+    },
+    {
+      "source": "9368-6",
+      "target": "9368-1"
+    },
+    {
+      "source": "9368-6",
+      "target": "9368-11"
+    }
+  ],
+  "env": {
+    "rollup": "2.58.0",
+    "rollup-plugin-visualizer": "4.2.2"
+  },
+  "options": {
+    "gzip": false,
+    "brotli": false
+  }
+}
